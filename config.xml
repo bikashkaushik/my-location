@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = ""
+        id        = ""
+        versionCode=""
+        version   = "">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Find Your Location</name>
+
+    <description>
+        A simple location access application
+    </description>
+
+    <author href="http://fedobe.com" email="bikashkaushik@fedobe.com">
+        Biaksh Kaushik
+    </author>
+
+</widget>
